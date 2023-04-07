@@ -1,5 +1,5 @@
-# Cloned bot: Cashwinsupportbot - chat bot
-It is repository for chat bot: [@Cloned bot: Cashwinsupportbot](https://t.me/Cloned bot: Cashwinsupportbot)
+# Cashwinsupportbot - chat bot
+It is repository for chat bot: [Cashwinsupportbot](https://t.me/Cloned bot: Cashwinsupportbot)
 
 ## What it is?
 This repository can be imported to 
