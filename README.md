@@ -2,9 +2,8 @@
 It is repository for chat bot: [@Cloned bot: Cashwinsupportbot](https://t.me/Cloned bot: Cashwinsupportbot)
 
 ## What it is?
-This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
-
-[Bots.Business](https://bots.business) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
+This repository can be imported to 
+- it is probably the first CBPaaS - Chat Bot Platform as a Service.
 
 A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
 
@@ -17,8 +16,6 @@ How to create bot?
 4. Do import for this git repo
 
 Now you can talk with yours new Telegram Bot
-
-See [more](https://help.bots.business/getting-started)
 
 ## Commands - in commands folder
 File name - it is command name (Bot it can be rewritten in command description)
@@ -38,18 +35,6 @@ It is file header:
       aliases: /test2, /test3
     CMD*/
 
-See [more](https://help.bots.business/commands)
-
-### Command body
-It is command code in JavaScript.
-Use Bot Java Script for logic in command.
-
-For example:
-> Bot.sendMessage(2+2);
-
-See [more](https://help.bots.business/scenarios-and-bjs)
-
-
 ## Libraries - in libs folder
 You can store common code in the libs folder. File name - it is library name.
 
@@ -67,18 +52,3 @@ then you can run in any bot's command:
 
     Libs.myLib.hello()
     Libs.myLib.sayGoodbyeTo("Alice")
-
-See [more](https://help.bots.business/git/library)
-
-## Other bots example
-See other bots examples in the [github](https://github.com/bots-business?utf8=✓&tab=repositories&q=&type=public&language=javascript) or in the [Bot Store](https://bots.business/)
-
-
-## Other help
-[Help.bots.business](https://help.bots.business)
-
-## API
-See [API](https://api.bots.business/docs#/docs/summary)
-
-
-![](https://bots.business/images/web-logo.png)
